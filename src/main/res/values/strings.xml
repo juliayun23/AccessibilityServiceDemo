@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="accessibility_service_label">测试一键打车</string>
+    <string name="accessibility_service_description">测试一键打车</string>
+
+</resources>
